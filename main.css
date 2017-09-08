@@ -9,7 +9,7 @@ h1 {
 
 .flash {
   animation-name: flash;
-  animation-duration: 0.4s;
+  animation-duration: 0.2s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-direction: alternate;
